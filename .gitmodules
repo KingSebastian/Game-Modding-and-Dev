@@ -1,3 +1,6 @@
 [submodule "Age-of-Empires-3-Modding"]
 	path = Age-of-Empires-3-Modding
 	url = git@github.com:KingSebastian/Age-of-Empires-3-Modding.git
+[submodule "Age-of-Empires-3-ReverseEngineering"]
+	path = Age-of-Empires-3-ReverseEngineering
+	url = git@github.com:KingSebastian/Age-of-Empires-3-ReverseEngineering.git
