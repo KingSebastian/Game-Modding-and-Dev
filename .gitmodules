@@ -9,3 +9,4 @@
 [submodule "Imperial-Glory-Mod-Loader"]
 	path = Imperial-Glory-Mod-Loader
 	url = git@github.com:KingSebastian/Imperial-Glory-Mod-Loader.git
+	branch = main
